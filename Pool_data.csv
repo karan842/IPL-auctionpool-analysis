@@ -1,0 +1,406 @@
+Set No.,2023 Set,Country,Association,DOB,Age,Specialism,Batting_Style,Bowling_Style,Test caps,ODI caps,T20 caps,IPL,Previous IPLTeam(s),2022 Team,2022 IPL,C/U/A,Reserve_Price,Player_Name
+1,BA1,India,KSCA,16-02-1991,32,BATSMAN,RHB,RIGHT ARM Off Spin,21,5,0,113,"RCB, DD, RPSG, PBKS",PBKS,13,Capped,100,Mayank Agarwal
+1,BA1,England,F,22-02-1999,24,BATSMAN,RHB,RIGHT ARM Medium,1,0,20,0,Do No Play,Do No Play,0,Capped,150,Harry Brook
+1,BA1,India,MCA,06-06-1988,34,BATSMAN,RHB,-,82,90,20,158,"MI, RPSG, RR, DC, KKR",KKR,7,Capped,50,Ajinkya Rahane
+1,BA1,England,F,30-12-1990,32,BATSMAN,RHB,RIGHT ARM Off Spin,124,158,32,0,Do No Play,Do No Play,0,Capped,100,Joe Root
+1,BA1,South Africa,F,09-10-1989,33,BATSMAN,LHB,-,0,36,26,5,RCB,Do No Play,0,Capped,200,Rilee Rossouw
+1,BA1,New Zealand,F,08-08-1990,32,BATSMAN,RHB,-,88,155,87,76,SRH,SRH,13,Capped,200,Kane Williamson
+2,AL1,England,F,03-06-1998,24,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,24,18,35,32,"KXIP, CSK",Do No Play,0,Capped,200,Sam Curran
+2,AL1,Australia,F,03-06-1999,23,ALL-ROUNDER,RHB,RIGHT ARM Fast,14,13,8,0,Do No Play,Do No Play,0,Capped,200,Cameron Green
+2,AL1,Bangladesh,F,24-03-1987,36,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,63,221,109,71,"KKR, SRH",Do No Play,0,Capped,150,Shakib Al Hasan
+2,AL1,West Indies,F,05-11-1991,31,ALL-ROUNDER,RHB,RIGHT ARM Fast,56,131,49,38,"CSK, KKR, SRH, LSG",LSG,12,Capped,200,Jason Holder
+2,AL1,Zimbabwe,F,24-04-1986,36,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,17,123,66,0,Do No Play,Do No Play,0,Capped,50,Sikandar Raza
+2,AL1,West Indies,F,01-11-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,5,24,6,PBKS,PBKS,6,Capped,50,Odean Smith
+2,AL1,England,F,04-06-1991,31,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,86,105,43,43,"RPSG, RR",Do No Play,0,Capped,200,Ben Stokes
+3,WK1,England,F,11-11-1998,24,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,6,14,2,KKR,Do No Play,0,Capped,200,Tom Banton
+3,WK1,Bangladesh,F,13-10-1994,28,WICKETKEEPER,RHB,-,35,57,65,0,Do No Play,Do No Play,0,Capped,50,Litton Das
+3,WK1,South Africa,F,30-07-1991,31,WICKETKEEPER,RHB,-,1,30,38,7,"RCB, RR",Do No Play,0,Capped,100,Heinrich Klaasen
+3,WK1,Sri Lanka,F,02-02-1995,28,WICKETKEEPER,RHB,-,54,87,49,0,Do No Play,Do No Play,0,Capped,50,Kusal Mendis
+3,WK1,West Indies,F,02-10-1995,27,WICKETKEEPER,LHB,-,0,52,72,47,"PBKS, SRH",SRH,14,Capped,200,Nicholas Pooran
+3,WK1,England,F,28-08-1996,26,WICKETKEEPER,RHB,-,0,11,13,0,Do No Play,Do No Play,0,Capped,200,Phil Salt
+4,FA1,England,F,04-10-1988,34,BOWLER,RHB,RIGHT ARM Fast Medium,8,35,84,28,"RCB, SRH, PBKS, CSK",CSK,4,Capped,200,Chris Jordan
+4,FA1,New Zealand,F,13-04-1992,30,BOWLER,RHB,RIGHT ARM Fast,0,41,35,10,"MI, RCB, CSK",CSK,1,Capped,200,Adam Milne
+4,FA1,Australia,F,20-09-1996,26,BOWLER,RHB,RIGHT ARM Fast,3,15,18,3,PBKS,Do No Play,0,Capped,150,Jhye Richardson
+4,FA1,India,DDCA,02-09-1988,34,BOWLER,RHB,RIGHT ARM Fast,105,80,14,93,"KKR, DCH, SRH, RPSG, KXIP, DC",Do No Play,0,Capped,50,Ishant Sharma
+4,FA1,England,F,21-02-1994,29,BOWLER,RHB,LEFT ARM Fast,0,20,22,0,Do No Play,Do No Play,0,Capped,75,Reece Topley
+4,FA1,India,SCA,18-10-1991,31,BOWLER,RHB,LEFT ARM Fast Medium,1,7,10,91,"KKR, RCB, DD, RPS, RR, MI",MI,5,Capped,50,Jaydev Unadkat
+5,SP1,West Indies,F,25-04-1993,29,BOWLER,LHB,LEFT ARM Slow Orthodox,0,29,32,0,Do No Play,Do No Play,0,Capped,100,Akeal Hosein
+5,SP1,India,PCA,11-11-1997,25,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,1,20,"RR, MI",MI,2,Capped,50,Mayank Markande
+5,SP1,Afghanistan,F,28-03-2001,22,BOWLER,RHB,RIGHT ARM Off Spin,1,54,36,19,"KXIP, SRH",Do No Play,0,Capped,100,Mujeeb Rahman
+5,SP1,England,F,17-02-1988,35,BOWLER,RHB,RIGHT ARM Leg Spin,19,119,92,1,PBKS,Do No Play,0,Capped,200,Adil Rashid
+5,SP1,South Africa,F,18-02-1990,33,BOWLER,RHB,LEFT ARM Slow Unorthodox,2,39,59,5,"RCB, RR",Do No Play,0,Capped,100,Tabraiz Shamsi
+5,SP1,Australia,F,31-12-1992,30,BOWLER,RHB,RIGHT ARM Leg Spin,0,75,72,14,"RPSG, RCB",Do No Play,0,Capped,150,Adam Zampa
+6,UBA1,India,JKCA,13-09-1995,27,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubham Khajuria
+6,UBA1,India,KCA,10-05-1998,24,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rohan Kunnummal
+6,UBA1,India,KSCA,25-05-2000,22,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Chethan L.R.
+6,UBA1,India,ACA,24-09-2004,18,BATSMAN,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shaik Rasheed
+6,UBA1,India,PCA,28-03-1998,25,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,3,MI,MI,2,Uncapped,20,Anmolpreet Singh
+6,UBA1,India,DDCA,08-11-1996,26,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,RCB,Do No Play,0,Uncapped,20,Himmat Singh
+7,UAL1,South Africa,F,10-09-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,RR,RR,0,Uncapped,20,Corbin Bosch
+7,UAL1,India,UPCA,30-11-2000,22,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,21,SRH,SRH,2,Uncapped,20,Priyam Garg
+7,UAL1,India,UPCA,01-05-1993,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Saurabh Kumar
+7,UAL1,India,JKCA,30-10-1999,23,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vivrant Sharma
+7,UAL1,India,HCA,09-04-2004,18,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Nishant Sindhu
+7,UAL1,India,PCA,12-10-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sanvir Singh
+7,UAL1,India,CSCSCA,21-11-1991,31,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,10,"DD, RR, SRH",SRH,10,Uncapped,20,Shashank Singh
+7,UAL1,India,SCA,28-11-1995,27,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Samarth Vyas
+8,UWK1,India,ACA,03-10-1993,29,WICKETKEEPER,RHB,-,0,0,0,10,"RCB, DC",DC,2,Uncapped,20,K.S. Bharat
+8,UWK1,India,KCA,22-03-1994,29,WICKETKEEPER,RHB,-,0,0,0,0,RCB,Do No Play,0,Uncapped,20,Mohammed Azharuddeen
+8,UWK1,India,HCA,15-09-2004,18,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Dinesh Bana
+8,UWK1,India,CAB,06-09-1995,27,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Abhimanyu Easwaran
+8,UWK1,India,TNCA,24-12-1995,27,WICKETKEEPER,RHB,-,0,0,0,7,CSK,CSK,2,Uncapped,20,N. Jagadeesan
+8,UWK1,India,HCA,12-12-1995,27,WICKETKEEPER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sumit Kumar
+8,UWK1,India,RSPB,08-10-1996,26,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Upendra Singh Yadav
+9,UFA1,India,HPCA,14-12-1997,25,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,5,"KKR, PBKS",PBKS,5,Uncapped,20,Vaibhav Arora
+9,UFA1,India,KCA,24-07-1993,29,BOWLER,RHB,RIGHT ARM Fast,0,0,0,3,CSK,CSK,0,Uncapped,30,K.M. Asif
+9,UFA1,India,CAB,12-10-1993,29,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mukesh Kumar
+9,UFA1,India,UPCA,26-11-1998,24,BOWLER,RHB,RIGHT ARM Fast,0,0,0,32,KKR,KKR,6,Uncapped,40,Shivam Mavi
+9,UFA1,Australia,F,28-03-1998,25,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,30,Lance Morris
+9,UFA1,India,VCA,28-12-1998,24,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Yash Thakur
+9,UFA1,India,JKCA,07-06-2002,20,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mujtaba Yousuf
+10,USP1,India,TNCA,08-09-1990,32,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,42,"RPS, DD,RCB,PBKS, MI",MI,8,Uncapped,20,Murugan Ashwin
+10,USP1,India,BCA,25-08-1994,28,BOWLER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Chintal Gandhi
+10,USP1,India,KSCA,04-09-1993,29,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,49,"MI,RR,SRH",SRH,1,Uncapped,20,Shreyas Gopal
+10,USP1,India,KCA,07-10-1994,28,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,1,RR,Do No Play,0,Uncapped,20,S Midhun
+10,USP1,Afghanistan,F,10-11-2003,19,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Izharulhuq Naveed
+10,USP1,India,RCA,06-06-1998,24,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Himanshu Sharma
+11,BA2,Australia,F,29-12-1993,29,BATSMAN,LHB,RIGHT ARM Off Spin,28,51,17,10,RCB,Do No Play,0,Capped,200,Travis Head
+11,BA2,England,F,21-11-1998,24,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,2,0,Do No Play,Do No Play,0,Capped,150,Will Jacks
+11,BA2,England,F,03-09-1987,35,BATSMAN,LHB,RIGHT ARM Leg Spin,22,12,55,1,PBKS,Do No Play,0,Capped,150,Dawid Malan
+11,BA2,India,KSCA,10-09-1989,33,BATSMAN,RHB,-,0,29,39,160,"MI, RCB,PWI, KKR, SRH, LSG",LSG,6,Capped,100,Manish Pandey
+11,BA2,West Indies,F,15-08-1998,24,BATSMAN,LHB,-,0,0,6,10,"DC, MI, RR, RCB",RCB,3,Capped,150,Sherfane Rutherford
+11,BA2,India,PCA,18-12-1991,31,BATSMAN,RHB,-,0,0,3,108,"KKR, RCB, PBKS, DC",DC,3,Capped,50,Mandeep Singh
+11,BA2,Ireland,F,03-09-1990,32,BATSMAN,RHB,RIGHT ARM Off Spin,3,139,121,0,Do No Play,Do No Play,0,Capped,50,Paul Stirling
+11,BA2,South Africa,F,07-02-1989,34,BATSMAN,RHB,RIGHT ARM Off Spin,17,38,41,3,RR,RR,3,Capped,200,Rassie Van Der Dussen
+12,AL2,New Zealand,F,20-05-1991,31,ALL-ROUNDER,RHB,RIGHT ARM Medium,12,11,41,2,RR,RR,2,Capped,100,Daryl Mitchell
+12,AL2,Afghanistan,F,01-01-1985,38,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,3,135,104,17,"SRH, KKR",KKR,0,Capped,100,Mohammad Nabi
+12,AL2,New Zealand,F,17-09-1990,32,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,12,71,60,14,"DD, KXIP, MI, RR",RR,2,Capped,200,Jimmy Neesham
+12,AL2,South Africa,F,30-07-1989,33,ALL-ROUNDER,LHB,LEFT ARM Fast,6,69,53,26,"PWI, DD",Do No Play,0,Capped,75,Wayne Parnell
+12,AL2,Australia,F,27-10-1992,30,ALL-ROUNDER,RHB,LEFT ARM Fast,0,0,10,16,"DC, RCB, MI",MI,11,Capped,75,Daniel Sams
+12,AL2,Sri Lanka,F,09-09-1991,31,ALL-ROUNDER,RHB,RIGHT ARM Medium,6,42,82,0,Do No Play,Do No Play,0,Capped,50,Dasun Shanaka
+12,AL2,West Indies,F,26-11-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,18,23,3,SRH,SRH,3,Capped,50,Romario Shepherd
+13,FA2,Bangladesh,F,03-04-1995,28,BOWLER,LHB,RIGHT ARM Fast,11,51,46,0,Do No Play,Do No Play,0,Capped,50,Taskin Ahmed
+13,FA2,Sri Lanka,F,11-01-1992,31,BOWLER,RHB,RIGHT ARM Fast,12,42,52,12,LSG,LSG,12,Capped,50,Dushmanta Chameera
+13,FA2,New Zealand,F,30-12-1994,28,BOWLER,RHB,RIGHT ARM Fast,16,8,8,9,RCB,Do No Play,0,Capped,100,Kyle Jamieson
+13,FA2,Australia,F,21-06-1996,26,BOWLER,RHB,RIGHT ARM Fast,0,1,5,13,"PBKS, MI",MI,8,Capped,150,Riley Meredith
+13,FA2,Zimbabwe,F,02-10-1996,26,BOWLER,RHB,RIGHT ARM Fast,6,33,34,0,Do No Play,Do No Play,0,Capped,50,Blessing Muzarabani
+13,FA2,India,UTCA,18-05-1993,29,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,2,104,"SRH, PBKS",PBKS,5,Capped,50,Sandeep Sharma
+14,WK2,West Indies,F,14-01-1989,34,WICKETKEEPER,RHB,-,0,48,38,0,Do No Play,Do No Play,0,Capped,50,Johnson Charles
+14,WK2,West Indies,F,28-11-1987,35,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,0,25,54,0,Do No Play,Do No Play,0,Capped,50,Andre Fletcher
+14,WK2,West Indies,F,10-11-1993,29,WICKETKEEPER,RHB,-,38,104,19,0,Do No Play,Do No Play,0,Capped,100,Shai Hope
+14,WK2,New Zealand,F,02-04-1992,31,WICKETKEEPER,LHB,-,68,116,18,0,Do No Play,Do No Play,0,Capped,100,Tom Latham
+14,WK2,Australia,F,12-12-1994,28,WICKETKEEPER,RHB,-,0,5,23,0,Do No Play,Do No Play,0,Capped,50,Ben Mcdermott
+14,WK2,Australia,F,01-06-1997,25,WICKETKEEPER,RHB,-,0,3,10,5,RCB,Do No Play,0,Capped,75,Joshua Philippe
+14,WK2,Ireland,F,10-09-1996,26,WICKETKEEPER,RHB,-,0,29,49,0,Do No Play,Do No Play,0,Capped,50,Lorcan Tucker
+15,SP2,India,GUCA,24-12-1988,34,BOWLER,LHB,RIGHT ARM Leg Spin,3,25,7,165,"KXIP, KKR, CSK, MI",Do No Play,0,Capped,50,Piyush Chawla
+15,SP2,India,HCA,24-11-1982,40,BOWLER,RHB,RIGHT ARM Leg Spin,22,36,10,154,"DCH, SRH, DC",Do No Play,0,Capped,50,Amit Mishra
+15,SP2,India,JSCA,12-08-1989,33,BOWLER,RHB,LEFT ARM Slow Orthodox,2,0,0,72,"SRH, DD, RCB, LSG",LSG,0,Capped,50,Shahbaz Nadeem
+15,SP2,New Zealand,F,31-10-1992,30,BOWLER,RHB,RIGHT ARM Leg Spin,17,37,88,8,RR,Do No Play,0,Capped,75,Ish Sodhi
+16,UBA2,India,KCA,18-12-1988,34,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,19,"RR, SRH, RCB",Do No Play,0,Uncapped,20,Sachin Baby
+16,UBA2,India,CSCSCA,11-08-1991,31,BATSMAN,LHB,RIGHT ARM Medium,0,0,0,4,"KKR, PWI, RCB",Do No Play,0,Uncapped,20,Harpreet Bhatia
+16,UBA2,India,ACA,15-11-1995,27,BATSMAN,RHB,RIGHT ARM Fast,0,0,0,0,DC,DC,0,Uncapped,20,Ashwin Hebbar
+16,UBA2,India,PCA,07-06-2001,21,BATSMAN,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Pukhraj Mann
+16,UBA2,India,MPCA,15-09-2003,19,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akshat Raghuwanshi
+16,UBA2,India,HCA,01-10-1998,24,BATSMAN,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Himanshu Rana
+16,UBA2,India,KCA,16-10-2002,20,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shoun Roger
+16,UBA2,India,JSCA,08-12-1997,25,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,3,SRH,Do No Play,0,Uncapped,20,Virat Singh
+16,UBA2,England,F,26-10-2001,21,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,40,Will Smeed
+16,UBA2,India,VCA,14-03-1992,31,BATSMAN,RHB,-,0,0,0,0,"MI, KKR",Do No Play,0,Uncapped,30,Apoorv Wankhade
+17,UAL2,India,KSCA,05-10-1998,24,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Manoj Bhandage
+17,UAL2,South Africa,F,02-10-2000,22,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Gerald Coetzee
+17,UAL2,India,HPCA,11-11-1996,26,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,KXIP,Do No Play,0,Uncapped,20,Mayank Dagar
+17,UAL2,South Africa,F,01-05-2000,22,ALL-ROUNDER,RHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Duan Jansen
+17,UAL2,South Africa,F,05-08-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Evan Jones
+17,UAL2,India,SCA,23-04-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,PBKS,PBKS,0,Uncapped,20,Prerak Mankad
+17,UAL2,India,JKCA,17-01-1997,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Abid Mushtaq
+17,UAL2,India,MCA,29-01-2003,20,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Suryansh Shedge
+17,UAL2,India,KSCA,16-01-1994,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,22,"MI, DC, KXIP, SRH",SRH,5,Uncapped,20,Jagadeesha Suchith
+17,UAL2,India,HPCA,17-12-1994,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akash Vashisht
+18,UWK2,India,ACA,29-09-1996,26,WICKETKEEPER,RHB,-,0,0,0,2,SRH,Do No Play,0,Uncapped,20,Ricky Bhui
+18,UWK2,South Africa,F,21-07-1998,24,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Donovan Ferreira
+18,UWK2,India,TNCA,08-07-1994,28,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,0,0,0,3,KKR,KKR,3,Uncapped,20,Baba Indrajith
+18,UWK2,India,SCA,27-09-1986,36,WICKETKEEPER,RHB,-,0,0,0,9,KKR,KKR,5,Uncapped,20,Sheldon Jackson
+18,UWK2,India,UPCA,11-11-2001,21,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,MI,MI,0,Uncapped,20,Aryan Juyal
+18,UWK2,India,GUCA,17-10-1998,24,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Urvil Patel
+18,UWK2,India,ACA,19-09-1997,25,WICKETKEEPER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Kirant Shinde
+18,UWK2,India,KSCA,15-01-2000,23,WICKETKEEPER,LHB,RIGHT ARM Off Spin,0,0,0,0,RCB,RCB,0,Uncapped,20,Luvnith Sisodia
+18,UWK2,India,BCA,15-10-1992,30,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vishnu Solanki
+18,UWK2,India,KCA,02-12-1993,29,WICKETKEEPER,RHB,-,0,0,0,3,"RCB, DC, SRH",SRH,0,Uncapped,20,Vishnu Vinod
+19,UFA2,India,RCA,28-01-1990,33,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,5,RCB,Do No Play,0,Uncapped,30,Aniket Choudhary
+19,UFA2,India,KSCA,25-02-1999,24,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vidwath Kaverappa
+19,UFA2,India,CAU,08-07-1996,26,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rajan Kumar
+19,UFA2,India,CAB,29-10-2003,19,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ravi Kumar
+19,UFA2,India,JSCA,23-12-2000,22,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,SRH,SRH,0,Uncapped,20,Sushant Mishra
+19,UFA2,India,GUCA,17-10-1997,25,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Arzan Nagwaswalla
+19,UFA2,India,CAB,05-09-1998,24,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,1,PBKS,PBKS,0,Uncapped,20,Ishan Porel
+19,UFA2,India,NCA,26-04-2002,20,BOWLER,RHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akash Singh
+19,UFA2,India,KCA,11-09-1993,29,BOWLER,RHB,RIGHT ARM Fast,0,0,0,25,"GL, SRH, MI",MI,5,Uncapped,20,Basil Thampi
+19,UFA2,Netherland,F,15-01-1993,30,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Associate,20,Paul Van Meekeren
+19,UFA2,India,KSCA,31-01-1997,26,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vyshak Vijay Kumar
+20,USP2,India,TNCA,05-09-1998,24,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,S.Ajith Ram
+20,USP2,India,MACA,28-11-1992,30,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Satyajeet Bachhav
+20,USP2,India,DDCA,01-02-1996,27,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,1,"GL, RR",RR,0,Uncapped,20,Tejas Baroka
+20,USP2,India,SCA,23-11-1995,27,BOWLER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Yuvraj Chudasama
+20,USP2,Australia,F,27-11-1998,24,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Peter Hatzoglou
+20,USP2,UAE,F,08-10-2000,22,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Associate,20,Karthik Meiyappan
+20,USP2,India,DDCA,15-05-2003,19,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Suyash Sharma
+20,USP2,India,UPCA,14-11-1995,27,BOWLER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shivam Sharma
+21,BA3,South Africa,F,14-08-1989,33,BATSMAN,RHB,-,0,26,48,0,Do No Play,Do No Play,0,Capped,50,Reeza Hendricks
+21,BA3,South Africa,F,24-09-1986,36,BATSMAN,RHB,RIGHT ARM Fast Medium,0,2,2,0,Do No Play,Do No Play,0,Capped,50,Christiaan Jonker
+21,BA3,West Indies,F,16-12-1994,28,BATSMAN,RHB,RIGHT ARM Off Spin,0,20,32,0,Do No Play,Do No Play,0,Capped,50,Brandon King
+21,BA3,Australia,F,10-04-1990,32,BATSMAN,RHB,-,0,4,18,42,"DCH, KKR, MI",Do No Play,0,Capped,200,Chris Lynn
+21,BA3,India,KSCA,06-12-1991,31,BATSMAN,RHB,RIGHT ARM Off Spin,6,2,0,76,"RCB, DD, KXIP, KKR, RR",RR,3,Capped,50,Karun Nair
+21,BA3,Sri Lanka,F,18-05-1998,24,BATSMAN,RHB,-,9,17,36,0,Do No Play,Do No Play,0,Capped,50,Pathum Nissaanka
+21,BA3,England,F,21-07-1990,32,BATSMAN,RHB,-,5,110,64,13,"GL, DC, SRH, GT",GT,0,Capped,150,Jason Roy
+21,BA3,India,PCA,29-06-1990,32,BATSMAN,RHB,RIGHT ARM Off Spin,0,3,0,41,"KXIP, DD, RCB, KKR, GT",GT,0,Capped,50,Gurkeerat Singh
+21,BA3,Ireland,F,06-12-1999,23,BATSMAN,RHB,RIGHT ARM Off Spin,0,23,51,0,Do No Play,Do No Play,0,Capped,50,Harry Tector
+21,BA3,Afghanistan,F,18-02-1993,30,BATSMAN,LHB,RIGHT ARM Off Spin,0,82,86,0,Do No Play,Do No Play,0,Capped,50,Najibullah Zadran
+22,AL3,Australia,F,29-02-1992,31,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,7,9,3,"RCB, SRH",SRH,1,Capped,150,Sean Abbott
+22,AL3,Afghanistan,F,15-08-2000,22,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,1,1,2,0,Do No Play,Do No Play,0,Capped,50,Qais Ahmad
+22,AL3,Sri Lanka,F,29-06-1997,25,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,3,16,31,0,Do No Play,Do No Play,0,Capped,50,Charith Asalanka
+22,AL3,New Zealand,F,14-02-1991,32,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,2,12,13,0,Do No Play,Do No Play,0,Capped,100,Michael Bracewell
+22,AL3,West Indies,F,06-02-1998,25,ALL-ROUNDER,LHB,LEFT ARM Fast,0,0,10,0,GT,GT,0,Capped,50,Dominic Drakes
+22,AL3,England,F,15-04-1997,25,ALL-ROUNDER,LHB,LEFT ARM Fast,0,0,1,5,RCB,Do No Play,0,Capped,50,George Garton
+22,AL3,Sri Lanka,F,29-05-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,1,18,38,0,KKR,KKR,0,Capped,50,Chamika Karunaratne
+22,AL3,England,F,10-04-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Fast,1,0,0,0,Do No Play,Do No Play,0,Capped,200,Jamie Overton
+22,AL3,India,TNCA,04-04-1991,32,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,1,5,KKR,Do No Play,0,Capped,50,Sandeep Warrier
+23,FA3,Australia,F,23-06-1994,28,BOWLER,LHB,LEFT ARM Fast,0,0,1,0,"KXIP, DC",Do No Play,0,Capped,50,Ben Dwarshuis
+23,FA3,England,F,02-12-1987,35,BOWLER,RHB,RIGHT ARM Fast,0,0,6,0,Do No Play,Do No Play,0,Capped,50,Richard Gleeson
+23,FA3,Afghanistan,F,23-09-1999,23,BOWLER,RHB,RIGHT ARM Fast Medium,0,7,22,0,Do No Play,Do No Play,0,Capped,50,Naveen Ul Haq
+23,FA3,Sri Lanka,F,13-02-1997,26,BOWLER,LHB,RIGHT ARM Fast,24,13,25,0,Do No Play,Do No Play,0,Capped,50,Lahiru Kumara
+23,FA3,Ireland,F,01-11-1999,23,BOWLER,RHB,LEFT ARM Fast,0,22,53,0,Do No Play,Do No Play,0,Capped,50,Joshua Little
+23,FA3,Sri Lanka,F,18-09-2000,22,BOWLER,LHB,LEFT ARM Fast,0,0,6,0,Do No Play,Do No Play,0,Capped,50,Dilshan Madushanka
+23,FA3,India,HCA,18-09-1988,34,BOWLER,RHB,RIGHT ARM Fast Medium,0,26,8,86,"KXIP,CSK,DC",Do No Play,0,Capped,50,Mohit Sharma
+23,FA3,Australia,F,04-11-1994,28,BOWLER,RHB,RIGHT ARM Fast,0,7,19,6,"RCB, SRH",Do No Play,0,Capped,50,Billy Stanlake
+23,FA3,Australia,F,12-12-1986,36,BOWLER,RHB,RIGHT ARM Fast Medium,0,7,32,30,"GL, KXIP, RR, LSG",LSG,3,Capped,100,Andrew Tye
+23,FA3,England,F,02-08-1995,27,BOWLER,LHB,LEFT ARM Fast,0,1,2,0,Do No Play,Do No Play,0,Capped,100,Luke Wood
+24,UBA3,India,DDCA,18-09-2001,21,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Priyansh Arya
+24,UBA3,South Africa,F,03-11-1998,24,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Matthew Breetzke
+24,UBA3,India,HCA,14-10-1997,25,BATSMAN,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shivam Chauhan
+24,UBA3,India,SSCB,18-09-1995,27,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rahul Gahlaut
+24,UBA3,India,CAB,21-03-1999,24,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sudip Gharami
+24,UBA3,India,TNCA,16-08-1996,26,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,0,CSK,CSK,0,Uncapped,20,C. Hari Nishaanth
+24,UBA3,India,CSCSCA,05-08-1997,25,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Amandeep Khare
+24,UBA3,India,BCA,04-09-1996,26,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Bhanu Pania
+24,UBA3,India,HPCA,21-06-1995,27,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ekant Sen
+24,UBA3,India,ARCA,20-12-1995,27,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akash Singh
+25,UAL3,India,CAU,17-11-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Himanshu Bisht
+25,UAL3,India,JKCA,13-09-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,MI,Do No Play,0,Uncapped,20,Yudhvir Charak
+25,UAL3,India,HYCA,10-05-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mickil Jaiswal
+25,UAL3,India,MCA,13-03-1997,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,DC,Do No Play,0,Uncapped,20,Shams Mulani
+25,UAL3,India,HYCA,28-10-2000,22,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,G.Aniketh Reddy
+25,UAL3,India,BCA,03-02-1996,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Atit Sheth
+25,UAL3,India,TNCA,03-07-1998,24,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,"KKR, DC",Do No Play,0,Uncapped,20,M. Siddharth
+25,UAL3,India,CAU,22-01-1991,32,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,5,"MI, KXIP",Do No Play,0,Uncapped,20,Swapnil Singh
+25,UAL3,India,HYCA,15-11-1995,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Tanay Thyagarajann
+25,UAL3,India,HPCA,18-11-1990,32,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sumeet Verma
+25,UAL3,Namibia,F,18-05-1985,37,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,15,RCB,Do No Play,0,Associate,100,David Wiese
+25,UAL3,India,TNCA,10-05-1995,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,1,"KKR, SRH, MI",MI,1,Uncapped,20,Sanjay Yadav
+26,UWK3,India,TNCA,26-09-2002,20,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ajitesh Guruswamy
+26,UWK3,India,RCA,06-10-1995,27,WICKETKEEPER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Yash Kothari
+26,UWK3,India,TNCA,28-11-1990,32,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Suresh Kumar
+26,UWK3,India,JSCA,23-10-2004,18,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Kumar Kushagra
+26,UWK3,India,PCA,29-11-1995,27,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Anmol Malhotra
+26,UWK3,India,JSCA,13-09-2002,20,WICKETKEEPER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Robin Minz
+26,UWK3,India,CAB,01-01-1997,26,WICKETKEEPER,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Agniv Pan
+26,UWK3,India,GUCA,16-10-2001,21,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Priyesh Patel
+26,UWK3,India,BCA,15-05-1997,25,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mitesh Patel
+26,UWK3,India,CAB,17-10-2002,20,WICKETKEEPER,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Abishek Porel
+26,UWK3,India,ACA,26-05-2003,19,WICKETKEEPER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Nitish Kumar Reddy
+26,UWK3,India,CAP,15-11-1995,27,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Bharat Sharma
+26,UWK3,India,RSPB,01-11-1993,29,WICKETKEEPER,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vivek Singh
+26,UWK3,India,RCA,14-03-1995,28,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,1,KKR,KKR,1,Uncapped,20,Abhijeet Tomar
+27,UFA3,India,JKCA,05-02-2003,20,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Basit Bashir
+27,UFA3,South Africa,F,11-08-1995,27,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Nandre Burger
+27,UFA3,India,JKCA,05-04-2000,23,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,3,"MI, KKR",KKR,2,Uncapped,20,Rasikh Dar
+27,UFA3,India,BICA,14-12-2004,18,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sakib Hussain
+27,UFA3,India,JKCA,20-01-2000,23,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Waseem Khanday
+27,UFA3,India,CSCSCA,01-02-1991,32,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ravi Kiran Majeti
+27,UFA3,India,BCA,11-12-1991,31,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,1,DC,Do No Play,0,Uncapped,20,Lukman Hussain Meriwala
+27,UFA3,India,BICA,01-11-2000,22,BOWLER,RHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Anuj Raj
+27,UFA3,India,UPCA,04-12-1993,29,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,29,"CSK, KKR, KXIP, RR, LSG",LSG,0,Uncapped,20,Ankit Singh Rajpoot
+27,UFA3,India,JKCA,05-07-1998,24,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Avinash Singh
+27,UFA3,India,DDCA,12-12-2001,21,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Prince Yadav
+27,UFA3,India,ACA,20-02-1998,25,BOWLER,LHB,LEFT ARM Fast,0,0,0,2,"KKR, SRH",Do No Play,0,Uncapped,20,Prithviraj Yarra
+28,USP3,India,OCA,15-07-1998,24,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mushtaq Beg
+28,USP3,India,TNCA,07-03-1993,30,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rocky Bhasker
+28,USP3,India,KSCA,16-09-1997,25,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sanjith Devaraj
+28,USP3,India,HCA,20-06-2001,21,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Raghav Goyal
+28,USP3,Afghanistan,F,15-07-2007,15,BOWLER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Allah Mohammad
+28,USP3,India,ACA,19-03-1990,33,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Lalit Mohan
+28,USP3,India,HCA,10-10-2001,21,BOWLER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Bhuwan Rohilla
+28,USP3,India,JKCA,03-04-1997,26,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Aman Sharma
+28,USP3,India,RCA,03-08-2002,20,BOWLER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Manav Suthar
+29,AL4,England,F,12-03-1995,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,2,28,30,13,"KKR, RR, DC",Do No Play,0,Capped,75,Tom Curran
+29,AL4,Australia,F,01-02-1987,36,ALL-ROUNDER,RHB,RIGHT ARM Medium,4,16,24,62,"KKR, DD, RCB, SRH, PBKS",Do No Play,0,Capped,100,Moises Henriques
+29,AL4,Bangladesh,F,22-09-1999,23,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,19,60,0,Do No Play,Do No Play,0,Capped,50,Afif Hossain
+29,AL4,New Zealand,F,03-01-1992,31,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,2,18,2,"CSK, RCB",Do No Play,0,Capped,50,Scott Kuggeleijn
+29,AL4,South Africa,F,07-01-1991,32,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,3,4,0,Do No Play,Do No Play,0,Capped,50,Sisanda Magala
+29,AL4,England,F,10-04-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,8,7,0,0,Do No Play,Do No Play,0,Capped,200,Craig Overton
+29,AL4,Australia,F,09-08-1990,32,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,0,8,23,7,RR,Do No Play,0,Capped,75,Darcy Short
+29,AL4,Sri Lanka,F,06-09-1991,31,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,45,60,33,0,Do No Play,Do No Play,0,Capped,50,Dhananjaya Silva
+29,AL4,Sri Lanka,F,09-01-2003,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,1,5,0,0,Do No Play,Do No Play,0,Capped,50,Dunith Wellalage
+30,FA4,India,BCA,29-10-1989,33,BOWLER,RHB,RIGHT ARM Fast,9,9,0,52,"DD, RCB, KXIP, RR, GT",GT,2,Capped,50,Varun Aaron
+30,FA4,West Indies,F,19-08-1989,33,BOWLER,RHB,LEFT ARM Fast Medium,2,38,42,6,KXIP,Do No Play,0,Capped,50,Sheldon Cottrel
+30,FA4,Australia,F,11-10-1987,35,BOWLER,RHB,RIGHT ARM Fast,0,32,28,39,"MI,DD, RCB, KKR, RR",RR,1,Capped,150,Nathan Coulter-Nile
+30,FA4,South Africa,F,15-07-1994,28,BOWLER,RHB,RIGHT ARM Fast,0,2,0,0,Do No Play,Do No Play,0,Capped,50,Daryn Dupavillon
+30,FA4,New Zealand,F,14-12-1991,31,BOWLER,RHB,RIGHT ARM Fast Medium,17,64,6,2,KXIP,Do No Play,0,Capped,100,Matt Henry
+30,FA4,India,MCA,10-12-1988,34,BOWLER,RHB,RIGHT ARM Fast Medium,0,12,2,92,"MI,GL,RR",Do No Play,0,Capped,50,Dhawal Kulkarni
+30,FA4,England,F,12-08-1992,30,BOWLER,RHB,LEFT ARM Fast,0,0,13,10,"RCB, MI",MI,5,Capped,200,Tymal Mills
+30,FA4,England,F,15-02-1991,32,BOWLER,RHB,LEFT ARM Fast,0,1,0,0,Do No Play,Do No Play,0,Capped,75,David Payne
+30,FA4,India,PCA,10-12-1992,30,BOWLER,LHB,LEFT ARM Fast Medium,0,6,2,24,"RR, SRH, KXIP, MI",Do No Play,0,Capped,50,Barinder Sran
+30,FA4,South Africa,F,10-08-1992,30,BOWLER,RHB,RIGHT ARM Fast,1,0,1,0,Do No Play,Do No Play,0,Capped,50,Glenton Stuurman
+31,UBA4,India,TNCA,02-09-1994,28,BATSMAN,LHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Anirudh Balachander
+31,UBA4,India,PCA,28-10-1998,24,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Gourav Choudhary
+31,UBA4,India,GUCA,27-05-2000,22,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Saurav Chuahan
+31,UBA4,India,JSCA,24-10-1992,30,BATSMAN,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Kumar Deobrat
+31,UBA4,India,GUCA,18-06-1990,32,BATSMAN,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Chirag Gandhi
+31,UBA4,India,MCA,25-10-1998,24,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,KXIP,Do No Play,0,Uncapped,20,Arman Jaffer
+31,UBA4,India,UPCA,03-01-1998,25,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Madhav Kaushik
+31,UBA4,India,GUCA,09-04-1990,33,BATSMAN,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Priyank Panchal
+31,UBA4,India,CSCSCA,19-09-2003,19,BATSMAN,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ayush Pandey
+31,UBA4,India,KSCA,18-08-2001,21,BATSMAN,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rohan Patil
+31,UBA4,India,VCA,01-04-1995,28,BATSMAN,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sanjay Ramaswamy
+31,UBA4,India,UPCA,13-08-2003,19,BATSMAN,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Siddharth Yadav
+32,UAL4,England,F,13-08-2004,18,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,40,Rehan Ahmed
+32,UAL4,India,CAB,25-10-2002,20,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,1,RCB,Do No Play,0,Uncapped,20,Prayas Barman
+32,UAL4,India,HYCA,20-09-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,MI,MI,0,Uncapped,20,Rahul Buddhi
+32,UAL4,India,KCA,31-05-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vaisakh Chandran
+32,UAL4,India,CAB,28-09-1992,30,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,PBKS,PBKS,0,Uncapped,20,Writtick Chatterjee
+32,UAL4,India,HPCA,07-10-1992,30,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,2,RR,Do No Play,0,Uncapped,20,Prashant Chopra
+32,UAL4,India,VCA,23-07-2002,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Harsh Dubey
+32,UAL4,India,MCA,16-10-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Tanush Kotian
+32,UAL4,India,BCA,10-03-1999,24,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ninad Rathva
+32,UAL4,India,TNCA,19-09-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,B. Surya
+32,UAL4,England,F,09-10-1996,26,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,40,Jordan Thompson
+32,UAL4,India,DDCA,17-09-1995,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shivank Vashisth
+33,UWK4,India,HPCA,16-12-1995,27,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,0,0,0,0,"RPSG, DC",Do No Play,0,Uncapped,20,Ankush Bains
+33,UWK4,England,F,29-04-1999,23,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Christopher Benjamin
+33,UWK4,South Africa,F,31-05-2001,21,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Connor Esterhuizen
+33,UWK4,India,UTCA,15-09-1999,23,WICKETKEEPER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mohd Arslan Khan
+33,UWK4,India,ACA,17-07-2001,21,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mamidi Krishna
+33,UWK4,India,JKCA,11-12-1996,26,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Fazil Makaya
+33,UWK4,India,UPCA,10-05-1993,29,WICKETKEEPER,RHB,-,0,0,0,14,"GL, KXIP, RCB",Do No Play,0,Uncapped,20,Akshdeep Nath
+33,UWK4,India,DDCA,27-09-1993,29,WICKETKEEPER,RHB,RIGHT ARM Fast,0,0,0,0,MI,Do No Play,0,Uncapped,20,Deepak Punia
+33,UWK4,India,RCA,09-10-2002,20,WICKETKEEPER,LHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Kunal Rathore
+33,UWK4,India,JKCA,07-04-1996,27,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ateev Saini
+33,UWK4,India,BICA,20-11-1999,23,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Bipin Saurabh
+33,UWK4,India,KSCA,28-09-1996,26,WICKETKEEPER,RHB,-,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,B.R. Sharath
+33,UWK4,India,UPCA,21-08-2002,20,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Yashovardhan Singh
+33,UWK4,India,DDCA,15-09-1997,25,WICKETKEEPER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Lakshay Thareja
+34,UFA4,India,MCA,18-11-1992,30,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mohit Avasthi
+34,UFA4,South Africa,F,18-03-1993,30,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ottneil Baartman
+34,UFA4,India,PCA,25-05-2000,22,BOWLER,LHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Gurnoor Singh Brar
+34,UFA4,India,JKCA,12-06-1993,29,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shahrukh Dar
+34,UFA4,England,F,07-05-1994,28,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,40,Thomas Helm
+34,UFA4,India,HPCA,20-09-1995,27,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,MI,Do No Play,0,Uncapped,20,Pankaj Jaswal
+34,UFA4,India,KSCA,12-05-2000,22,BOWLER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Venkatesh Muralidhara
+34,UFA4,India,CAB,06-11-1994,28,BOWLER,RHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Geet Puri
+34,UFA4,India,HYCA,08-10-1999,23,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,E. Sanketh
+34,UFA4,India,TCA,10-03-1997,26,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ajay Sarkar
+34,UFA4,India,RCA,17-06-2002,20,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ashok Sharma
+34,UFA4,India,HPCA,16-06-1991,31,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Kanwar Singh
+35,AL5,West Indies,F,07-05-1995,27,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,20,34,5,"SRH, PBKS, MI",MI,1,Capped,50,Fabian Allen
+35,AL5,West Indies,F,18-07-1988,34,ALL-ROUNDER,RHB,RIGHT ARM Fast,3,44,41,16,"DD, SRH, KKR",Do No Play,0,Capped,75,Carlos Brathwaite
+35,AL5,West Indies,F,22-03-1992,31,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,43,33,6,0,Do No Play,Do No Play,0,Capped,100,Roston Chase
+35,AL5,West Indies,F,01-02-1993,30,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,9,0,0,0,Do No Play,Do No Play,0,Capped,100,Rahkeem Cornwall
+35,AL5,Afghanistan,F,11-08-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,1,41,0,Do No Play,Do No Play,0,Capped,50,Karim Janat
+35,AL5,South Africa,F,07-02-1990,33,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,45,26,25,0,Do No Play,Do No Play,0,Capped,50,Keshav Maharaj
+35,AL5,India,DDCA,06-01-1993,30,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,1,50,"CSK, RCB, DD, KKR",Do No Play,0,Capped,50,Pawan Negi
+35,AL5,West Indies,F,21-02-1998,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,3,23,23,8,DC,Do No Play,0,Capped,50,Keemo Paul
+36,UAL5,India,RSPB,04-08-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shivam Chaudhary
+36,UAL5,India,MPCA,16-12-1995,27,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ashwin Das
+36,UAL5,England,F,24-01-1990,33,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,40,James Fuller
+36,UAL5,India,SCA,09-11-1989,33,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Chirag Jani
+36,UAL5,India,VCA,12-10-1992,30,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akshay Karnewar
+36,UAL5,India,UTCA,18-06-1997,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Bhagmender Lather
+36,UAL5,India,JKCA,05-09-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Lone Muzaffar
+36,UAL5,India,SSCB,18-06-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Pulkit Narang
+36,UAL5,India,HYCA,29-07-1994,28,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rohit Rayudu
+36,UAL5,India,UPCA,06-12-2003,19,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sameer Rizvi
+36,UAL5,India,GCA,25-09-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Tunish Sawkar
+36,UAL5,India,TNCA,11-11-1999,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sonu Yadav
+37,UFA5,India,JKCA,04-11-1996,26,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Auqib Dar
+37,UFA5,India,ASCA,11-01-1999,24,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mukhtar Hussain
+37,UFA5,India,DDCA,13-03-1992,31,BOWLER,LHB,LEFT ARM Fast,0,0,0,5,"MI, RCB",Do No Play,0,Uncapped,20,Kulwant Khejroliya
+37,UFA5,India,PCA,29-08-2001,21,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ashwani Kumar
+37,UFA5,India,RCA,28-10-1995,27,BOWLER,LHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Hemant Kumar
+37,UFA5,Australia,F,14-07-1993,29,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Nathan McAndrew
+37,UFA5,India,OCA,20-05-2000,22,BOWLER,LHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rajesh Mohanty
+37,UFA5,India,RCA,14-10-1996,26,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ravi Sharma
+37,UFA5,India,JSCA,28-06-1994,28,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vikash Singh
+37,UFA5,Namibia,F,01-02-1998,25,BOWLER,RHB,LEFT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Associate,20,Ruben Trumpelmann
+37,UFA5,India,KSCA,19-09-1992,30,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Koushik Vasuki
+37,UFA5,India,UPCA,08-09-2002,20,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Vasu Vats
+38,UAL6,India,CSCSCA,21-11-1993,29,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubham Agrawal
+38,UAL6,India,TNCA,08-07-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,RPSG,Do No Play,0,Uncapped,20,Baba Aparajith
+38,UAL6,India,HCA,06-12-2000,22,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Anshul Kamboj
+38,UAL6,India,MACA,14-10-1993,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Azim Kazi
+38,UAL6,India,DDCA,27-01-2003,20,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Dev Lakra
+38,UAL6,India,CSCSCA,25-02-1996,27,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ajay Mandal
+38,UAL6,India,KCA,09-10-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Abdul P A
+38,UAL6,India,HCA,20-12-1999,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Jitender Pal
+38,UAL6,India,CAB,20-11-1995,27,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ritwik Roy Chowdhury
+38,UAL6,India,JSCA,07-05-1998,24,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,PBKS,Do No Play,0,Uncapped,20,Utkarsh Singh
+38,UAL6,India,CSCSCA,05-01-1997,26,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubham Singh
+38,UAL6,India,CAU,20-11-2001,21,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Avneesh Sudha
+39,UFA6,India,JKCA,31-08-1999,23,BOWLER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Asad Jamil Ahmed
+39,UFA6,India,ACA,27-10-1992,30,BOWLER,RHB,RIGHT ARM Medium,0,0,0,0,DC,Do No Play,0,Uncapped,20,Bandaru Ayyappa
+39,UFA6,India,JKCA,14-08-2003,19,BOWLER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Aashish Bhatt
+39,UFA6,West Indies,F,05-06-2003,19,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,McKenny Clarke
+39,UFA6,India,VCA,22-07-1994,28,BOWLER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubham Kapse
+39,UFA6,India,JKCA,16-04-1998,24,BOWLER,RHB,LEFT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Gourav Koul
+39,UFA6,India,JSCA,19-12-2002,20,BOWLER,RHB,LEFT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Raunak Kumar
+39,UFA6,India,TNCA,28-05-2000,22,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Trilok Nag
+39,UFA6,India,UPCA,05-08-1999,23,BOWLER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Atal Bihari Rai
+39,UFA6,West Indies,F,16-10-2001,21,BOWLER,LHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ramon Simmonds
+39,UFA6,India,JKCA,16-06-1995,27,BOWLER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rajeev Singh
+39,UFA6,India,JKCA,06-05-1999,23,BOWLER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mohd. Wasim
+40,UAL7,India,MCA,26-09-2000,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Atharva Ankolekar
+40,UAL7,India,MCA,10-10-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Khizar Dafedar
+40,UAL7,India,PCA,31-12-1999,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Naman Dhir
+40,UAL7,India,RCA,03-07-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sahil Dhiwan
+40,UAL7,India,JKCA,19-06-2001,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sampark Gupta
+40,UAL7,South Africa,F,04-12-2001,21,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Jordan Hermann
+40,UAL7,Australia,F,10-07-1996,26,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Hayden Kerr
+40,UAL7,India,RCA,26-12-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Salman Khan
+40,UAL7,India,MCA,31-10-1996,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sairaj Patil
+40,UAL7,India,MCA,13-02-2001,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Divyaansh Saxena
+40,UAL7,India,UPCA,20-01-2001,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Purnank Tyagi
+40,UAL7,India,UPCA,02-01-1998,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Prince Yadav
+41,UAL8,India,GCA,04-04-1998,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Deepraj Gaonkar
+41,UAL8,India,RCA,14-05-1995,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,RR,RR,0,Uncapped,20,Shubham Garhwal
+41,UAL8,England,F,05-10-1988,34,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,PBKS,PBKS,0,Uncapped,40,Benny Howell
+41,UAL8,India,CAU,04-11-1997,25,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Deepesh Nailwal
+41,UAL8,India,DDCA,16-01-2000,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Arjun Rapria
+41,UAL8,India,BCA,06-04-2001,22,ALL-ROUNDER,LHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shashwat Rawat
+41,UAL8,India,CSCSCA,06-06-1990,32,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sumit Ruikar
+41,UAL8,India,DDCA,09-09-1993,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,5,KXIP,Do No Play,0,Uncapped,20,Shivam Sharma
+41,UAL8,India,JSCA,05-09-2002,20,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rajandeep Singh
+41,UAL8,India,BICA,03-01-1993,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Anunay Singh
+41,UAL8,India,DDCA,15-12-1999,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Digvesh Singh
+41,UAL8,India,DDCA,18-11-1995,27,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Pranshu Vijayran
+42,UAL9,India,PCA,22-09-1998,24,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Prerit Dutta
+42,UAL9,India,MACA,28-08-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ramakrishna Ghosh
+42,UAL9,India,KSCA,30-03-2001,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubhang Hegde
+42,UAL9,India,MACA,10-11-1994,28,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shamshuzama Kazi
+42,UAL9,India,MCA,10-09-2002,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Ayaz Khan
+42,UAL9,India,SSCB,08-09-1995,27,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Amit Pachhara
+42,UAL9,India,PCA,21-12-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Akul Pandove
+42,UAL9,India,SSCB,13-01-1999,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Mohit Rathee
+42,UAL9,India,HCA,06-03-2004,19,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Garv Sangwan
+42,UAL9,India,RCA,26-03-1997,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Shubham Sharma
+42,UAL9,India,PCA,04-09-2000,22,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Nehal Wadhera
+42,UAL9,India,GCA,10-10-1989,33,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Amit Yadav
+43,UAL10,India,TCA,28-10-2002,20,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Amit Ali
+43,UAL10,India,MPCA,05-09-1999,23,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rishabh Chauhan
+43,UAL10,West Indies,F,29-04-2002,20,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Matthew Forde
+43,UAL10,India,SCA,14-08-2003,19,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sammar Gajjar
+43,UAL10,India,VCA,28-01-1993,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Rajneesh Gurbani
+43,UAL10,India,UPCA,24-09-2001,21,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Divyansh Joshi
+43,UAL10,India,BCA,09-12-1997,25,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Dhruv Patel
+43,UAL10,Australia,F,28-02-1996,27,ALL-ROUNDER,RHB,RIGHT ARM Fast,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Jack Prestwidge
+43,UAL10,India,VCA,10-12-1989,33,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Aditya Sarvate
+43,UAL10,India,MPCA,01-01-2000,23,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Sagar Solanki
+43,UAL10,South Africa,F,23-09-1993,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,Do No Play,Do No Play,0,Uncapped,20,Prenelan Subrayen
+43,UAL10,India,HYCA,21-09-1998,24,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,0,0,0,CSK,CSK,0,Uncapped,20,Bhagath Varma
